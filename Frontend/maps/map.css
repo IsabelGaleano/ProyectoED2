@@ -1,0 +1,24 @@
+
+ #map {
+    height: 60%;
+    width: 80%;
+    padding-left: 50%;
+}
+      
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.content-map {
+    padding-left: 170px;
+    padding-top: 50px;
+}
